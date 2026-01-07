@@ -5,8 +5,11 @@ Boosting Formic Acid Dehydrogenation on Graphdiyne-Supported Transition Metals v
 Cheng Liua, Xuejing Yanga, Xiufang Zhua, Haiming Huangc, Jing-Yao Liub
 
 a. School of Automotive Materials, Hubei University of Automotive Technology, Shiyan 442002, China
+
 b. Institute of Theoretical Chemistry, College of Chemistry, Jilin University, Changchun 130023, China
+
 c. School of Optoelectronic Engineering, Hubei University of Automotive Technology, Shiyan 442002, China
+
 
 Data and Software Availability
 Data and software used in this work are all available. The geometric coordinate files of the 12 single-atom catalysts under investigation are provided in the directory Data source/Geometric structure/. The structures of the TOF-determining state (TDTS) and TOF-determining intermediate (TDI) on these catalysts are accessible in Data source/TDI&TDTS/. All density functional theory (DFT) calculations were performed using the Vienna Ab initio Simulation Package (VASP 5.4.4), which is retrievable via https://www.vasp.at/.
