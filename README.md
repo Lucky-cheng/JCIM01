@@ -3,6 +3,7 @@ These zip files contain the core data for the paper:
 Boosting Formic Acid Dehydrogenation on Graphdiyne-Supported Transition Metals via Amino Modification: A DFT Study
 
 Cheng Liu*a, Xuejing Yanga, Xiufang Zhua, Haiming Huang*c, Jing-Yao Liu*b
+
 a. School of Automotive Materials, Hubei University of Automotive Technology, Shiyan 442002, China
 b. Institute of Theoretical Chemistry, College of Chemistry, Jilin University, Changchun 130023, China
 c. School of Optoelectronic Engineering, Hubei University of Automotive Technology, Shiyan 442002, China
